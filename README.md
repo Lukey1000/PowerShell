@@ -1,3 +1,6 @@
-# PowerShell
-Simple PS tools written in powershell for my own use.
-They worked in my environment at a point in time and will remain unchanged unless I need to use them again.
+# Tools
+Simple tools for my own use - from powershell scripts, to C++ applications, to oneliner commands I want to remember.
+
+They worked in my environment at a point in time for a specific task and will remain unchanged unless I need to use them again.
+
+
