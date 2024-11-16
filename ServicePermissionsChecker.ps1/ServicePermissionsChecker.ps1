@@ -1,5 +1,5 @@
 # Script Author: Luke Brown
-$privtocheck = 'SeCreateGlobalPrivilege'
+$privtocheck = 'SeDebugPrivilege'
 $result = Get-ChildItem -Path "HKLM:\SYSTEM\CurrentControlSet\Services" |
     Where-Object { $_.PSIsContainer } |
     ForEach-Object {
